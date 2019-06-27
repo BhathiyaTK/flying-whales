@@ -1,4 +1,4 @@
-# flying-whales based on Aura - GDG[x]
+# Aura - GDG[x]
 [![MadeWithVueJs.com shield](https://madewithvuejs.com/storage/repo-shields/1444-shield.svg)](https://madewithvuejs.com/p/aura/shield-link)
 <!-- [![Build Status](https://travis-ci.org/Vrijraj/aura.svg?branch=master)](https://travis-ci.org/Vrijraj/aura) -->
 
@@ -119,6 +119,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 | GDG Sri Lanka | [View Now](https://gdgsrilanka.org) |
 | GDG Lafia | [View Now](https://lafia.gdg.ng/) |
 | GDG Kinshasa | [View Now](https://gdg-kin.firebaseapp.com/) |
+| Dev Cluster Goa | [View Now](https://beta.devcluster.community/) |
+| GDG Cloud Calgary | [View Now](https://gdgyyc.com/) |
 
 
 
