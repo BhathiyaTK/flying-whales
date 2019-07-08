@@ -1,0 +1,97 @@
+{
+    "orgName" : "Sustainable Education Foundation",
+    "shortDescription": "We empower students, education institutes and education as a whole in Sri Lanka.",
+    "mission" : "To empower students, education institutes and education as a whole in Sri Lanka.",
+    "BriefIntroTop" : "Sustainable Education Foundation (SEF) is a volunteer driven organisation founded by the former Google Student Ambassador and an alumni of University of Moratuwa, Akshika Wijesundara.",
+    "BriefIntroBtm" : "SEF was founded with the short term goal of making the Sri Lankan education system the most effective and the most dynamic education system in the world. SEF’s long term goal is to disrupt and democratise the global education system where it is available for everyone, in doing so, foundation contributes to the United Nations’ sustainable development goal of “Quality Education”.",
+    "testimonials" : [
+        {
+            "id" : "1",
+            "imgSrc" : "sanmugathasan.jpg",
+            "name" : "Sanmugathasan Prasanthan",
+            "bio" : "CEO/ Founder, IT Signature",
+            "content" : "Its great to work with your team and I wish you good luck. Its a great opportunity for me to share my stories with upcoming entrepreneurs and I believe you will keep your great service to motivate the rest."
+        },
+        {
+            "id" : "2",
+            "imgSrc" : "nimesha.jpg",
+            "name" : "Nimesha Ranasinghe",
+            "bio" : "Assistant Professor, University of Maine, USA",
+            "content" : "I believe that education should be free and accessible to everyone! Great to see many initiatives by the SEF community - especially their efforts to encourage the young generation in Sri Lanka to achieve not only in the domestic settings but also in the international level. I wish SEF all the best, keep up the good work!"
+        },
+        {
+            "id" : "3",
+            "imgSrc" : "vladmir.jpg",
+            "name" : "Vladimir Kovacevic",
+            "bio" : "Bioinformatics Analyst, Seven Bridges Genomics",
+            "content" : "SEF professionally organized a lecture I held about Advancements in DNA Sequencing, Bioinformatics and Cancer research. I was more than satisfied and amazed, especially about their strong efforts, devotion and philosophy of providing free education to the wide range of population. Hope the idea will be spread world wide."
+        }
+    ],
+    "partners" : [
+        {
+            "id" : "1",
+            "imgSrc" : "venture.png"
+        },
+        {
+            "id" : "2",
+            "imgSrc" : "thuru.png"
+        },
+        {
+            "id" : "3",
+            "imgSrc" : "surfedge.png"
+        },
+        {
+            "id" : "4",
+            "imgSrc" : "autochatic.png"
+        },
+        {
+            "id" : "5",
+            "imgSrc" : "JPixel.jpg"
+        },
+        {
+            "id" : "6",
+            "imgSrc" : "rotract.png"
+        },
+        {
+            "id" : "7",
+            "imgSrc" : "ieeein.png"
+        },
+        {
+            "id" : "8",
+            "imgSrc" : "LOGO_HAPPYSRILANKANS.jpg"
+        },
+        {
+            "id" : "9",
+            "imgSrc" : "srilankansoftwarefoundation.jpeg"
+        },
+        {
+            "id" : "10",
+            "imgSrc" : "fosslogo2.png"
+        },
+        {
+            "id" : "11",
+            "imgSrc" : "mozilla-logo-transparent.png"
+        },
+        {
+            "id" : "12",
+            "imgSrc" : "udecideLogo.png"
+        },
+        {
+            "id" : "13",
+            "imgSrc" : "Without.png"
+        },
+        {
+            "id" : "14",
+            "imgSrc" : "coursenet2.png"
+        },
+        {
+            "id" : "15",
+            "imgSrc" : "logos-03.png"
+        },
+        {
+            "id" : "16",
+            "imgSrc" : "SGLOGO.jpg"
+        }  
+    ]
+
+}
