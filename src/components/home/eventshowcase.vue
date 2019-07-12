@@ -17,7 +17,7 @@
 
         <v-layout wrap align-center justify-center row fill-height class="my-3 " >
            <v-flex xs12 md9 lg9 class="pa-2 text-xs-center">
-               <p class="google-font" style="font-size:170%">Our Events & Meetups</p>
+               <p class="google-font" style="font-size:170%">Upcoming Events</p>
                <p class="google-font" style="font-size:120%">
                    At sessions that span from the technical to the visionary, let’s celebrate and discover what the technologies can enable: how product innovation, open source, and ML and AI can propel enterprises forward and solve the big problems that impact all of us.
                </p>

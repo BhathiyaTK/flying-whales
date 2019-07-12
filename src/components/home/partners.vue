@@ -12,15 +12,16 @@
                 
 
                 <v-layout row wrap class="transparent">
-                    <v-flex xs12 sm7 class="elevation-0 transparent">
+                    <v-flex xs12 sm12 class="elevation-0 transparent">
                         <v-card class="elevation-0 pa-0 ma-0 transparent">
                             <v-container grid-list-sm fluid class="pa-0 ma-0">
                                 <v-layout row wrap class="ma-0 pa-0">
                                     <v-flex
                                         v-for="item in sefDetails.partners" :key="item.id"
-                                        xs6
+                                        xs4
                                         md3
-                                        sm4
+                                        sm3
+                                        lg2
                                         d-flex
                                         class="pa-0 white elevation-0" 
                                     >

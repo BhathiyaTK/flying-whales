@@ -44,8 +44,15 @@
       </v-layout>
     </v-container>
     
-  
-    <v-container fluid class="py-5" style="background-color:#F9F9F9">
+    <v-container fluid >
+      <v-layout wrap align-center justify-center row fill-height>
+        <v-flex xs12 md10 class="">
+          <eventshowcase />
+        </v-flex>
+      </v-layout>
+    </v-container>
+
+    <!-- <v-container fluid class="py-5" style="background-color:#F9F9F9">
       <v-layout wrap align-start justify-start row fill-height>
         <v-flex xs12 sm10 md10 offset-sm1 offset-md1 offset-lg1 >
           <p class="google-font mb-2" style="font-size:150%">Testimonials from our guest speakers</p>
@@ -58,7 +65,7 @@
           </v-layout>
         </v-flex>
       </v-layout>
-    </v-container>
+    </v-container> -->
     
      <!-- <v-container fluid >
       <v-layout wrap align-center justify-center row fill-height>
@@ -104,7 +111,7 @@
       // AboutGDGChapter,
       Mission,
       AboutSEF,
-      // eventshowcase,
+      eventshowcase,
       // wtmInfo,
       partners,
       featureEvent,
