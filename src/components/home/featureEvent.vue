@@ -3,8 +3,10 @@
         <v-layout wrap align-center justify-center row fill-height class="mt-2 elevation-2 white" style="border:1px solid #e0e0e0;border-radius:5px">
             <v-flex xs12 sm4 md3 lg3 class="pa-4" >
                 <v-img
-                    :src="getImgUrl(eventDetails.EventImage)"
+                    :src="require('@/assets/img_/brand/onelive.png')"
                     :lazy-src="getImgUrl(eventDetails.EventImage)"
+                    contain="true"
+                    max-height ="200px"
                     width="100%">
                     <v-layout
                         slot="placeholder"
@@ -18,7 +20,7 @@
                 </v-img>
             </v-flex>
            <v-flex xs12 sm8 md9 lg9 class="pa-2 py-4 px-3" >
-                <p class="google-font mb-0" style="font-size:150%;color:rgb(2, 119, 189)">{{eventDetails.FeatureEventName}}</p>
+                <p class="google-font mb-0" style="font-size:150%;color:rgb(2, 119, 189)">Today and Tommorow of FinTech in Sri Lanka</p>
                 <span class="google-font mt-1 mb-0 grey--text"  style="font-size:105%">
                     <v-icon small>insert_invitation</v-icon>
                     {{eventDetails.EventDate.Date +'/'+ eventDetails.EventDate.Month +'/'+ eventDetails.EventDate.Year}} 

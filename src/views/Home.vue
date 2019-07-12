@@ -9,7 +9,7 @@
       </v-layout>
     </v-container>
 
-     <v-container fluid style="background-color:#F9F9F9" >
+     <v-container fluid style="background-color:#0D0A3F" >
       <v-layout wrap align-center justify-center row fill-height>
         <v-flex xs12 md10 class="">
           <AboutSEF />
@@ -17,29 +17,33 @@
       </v-layout>
     </v-container>
 
-    <!-- <v-container fluid style="background-color:#F9F9F9" >
+    <v-container fluid >
       <v-layout wrap align-center justify-center row fill-height>
         <v-flex xs12 md10 class="">
           <whatWeDo />
         </v-flex>
       </v-layout>
-    </v-container> -->
+    </v-container>
 
-    <v-container fluid style="background-color:#F9564D" >
+    <!-- <v-container fluid style="background-color:#F9564D" >
       <v-layout wrap align-center justify-center row fill-height>
         <v-flex xs12 md10 class="">
           <Mission />
         </v-flex>
       </v-layout>
-    </v-container>
+    </v-container> -->
 
-    <!-- <v-container fluid >
-      <v-layout wrap align-center justify-center row fill-height>
-        <v-flex xs12 md10 class="">
-          <eventshowcase />
+    <v-container fluid class="py-5" style="background-color:#F9F9F9">
+      <v-layout wrap align-start justify-start row fill-height>
+        <v-flex xs12 md10 offset-md1 offset-lg1 >
+          <p class="google-font mb-2" style="font-size:150%">Our Featured Event</p>
+        </v-flex>
+        <v-flex xs12 md10 offset-md1 offset-lg1 >
+          <featureEvent />
         </v-flex>
       </v-layout>
-    </v-container> -->
+    </v-container>
+    
   
     <v-container fluid class="py-5" style="background-color:#F9F9F9">
       <v-layout wrap align-start justify-start row fill-height>
@@ -88,7 +92,7 @@
   import eventshowcase from '@/components/home/eventshowcase'
   // import wtmInfo from '@/components/home/wtmInfo'
   import partners from '@/components/home/partners'
-  // import featureEvent from '@/components/home/featureEvent'
+  import featureEvent from '@/components/home/featureEvent'
   import Testimonial from '@/components/home/Testimonial'
 
   import SEFDetails from '@/assets/data/sefHomePage.json'
@@ -96,14 +100,14 @@
   export default {
     components: {
       HomeStartScreen,
-      // whatWeDo,
+      whatWeDo,
       // AboutGDGChapter,
       Mission,
       AboutSEF,
-      eventshowcase,
+      // eventshowcase,
       // wtmInfo,
       partners,
-      // featureEvent
+      featureEvent,
       Testimonial
     },
       data() {

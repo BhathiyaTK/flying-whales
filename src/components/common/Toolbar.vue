@@ -12,7 +12,7 @@
     />
 
     <v-toolbar-title class="ml-0 pl-1 mr-1">
-      <span class="google-font">{{ChapterDetails.ChapterName}}</span>
+      <span class="google-font">Sustainable Education Foundation</span>
     </v-toolbar-title>
     <v-spacer />
     <v-btn
